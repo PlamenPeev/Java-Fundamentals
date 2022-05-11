@@ -1,0 +1,2 @@
+# exercise
+java fundamentals exercise
