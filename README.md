@@ -1,2 +1,1 @@
-# exercise
-java fundamentals exercise
+Java Fundamentals
